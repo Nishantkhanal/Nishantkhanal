@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishantkhanal
-- 👀 I’m interested in FrontEnd Developer And Also PHP
+- 👀 I’m interested in Backend Developer And Also PHP
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me khanalnishant32@gmail.com
 
