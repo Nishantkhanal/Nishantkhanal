@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishantkhanal
 - 👀 I’m interested in Backend Developer.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning PHP/React js.
 - 📫 How to reach me khanalnishant32@gmail.com
 
 <!---
