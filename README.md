@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishantkhanal
 - 👀 I’m interested in Backend Developer.
-- 🌱 I’m currently learning PHP/React js/MERN
+- 🌱 I’m currently learning PHP/React js/ Node/ MERN
+-    Work as intern at websoft technology nepal.
 - 📫 How to reach me khanalnishant32@gmail.com
 
 <!---
